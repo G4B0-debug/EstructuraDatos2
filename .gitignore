@@ -1,0 +1,6 @@
+*.classpath
+*.project
+MaquinaExpen/.settings/
+MaquinaExpen/bin/
+Ordenamientos/.settings/
+*.class
